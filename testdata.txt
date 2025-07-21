@@ -1201,3 +1201,14 @@
 
 #PRLabel: %CodeGen %Client
 /eng/scripts/typespec/                                             @JoshLove-msft @m-nash @jorgerangel-msft @jsquire @live1206 @ArcturusZhang
+
+
+
+
+# AzureSdkOwners: System.Collections.Generic.List`1[System.String]
+
+# ServiceLabel: System.Collections.Generic.List`1[System.String]
+
+# PRLabel: System.Collections.Generic.List`1[System.String]
+
+testdata.txt			System.Collections.Generic.List`1[System.String]
