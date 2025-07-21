@@ -18,6 +18,16 @@ testdata.txt			System.Collections.Generic.List`1[System.String]
 # PRLabel: System.Collections.Generic.List`1[System.String]
 
 testdata.txt			System.Collections.Generic.List`1[System.String]
+
+
+
+# AzureSdkOwners: System.Collections.Generic.List`1[System.String]
+
+# ServiceLabel: System.Collections.Generic.List`1[System.String]
+
+# PRLabel: System.Collections.Generic.List`1[System.String]
+
+testdata.txt			System.Collections.Generic.List`1[System.String]
 # Instructions for CODEOWNERS file format and automatic build failure notifications:
 # https://github.com/Azure/azure-sdk/blob/main/docs/policies/opensource.md#codeowners
 
