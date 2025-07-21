@@ -39,6 +39,7 @@
 # Automation
 ################
 hello hello testing
+hello hello testing
 
 # Git Hub integration and bot rules
 /.github/                                                          @jsquire @ronniegeraghty
