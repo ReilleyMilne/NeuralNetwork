@@ -66,11 +66,6 @@
 # ServiceLabel: %System.ClientModel
 # AzureSdkOwners:                                                  @m-redding
 
-# AzureSdkOwners: System.Collections.Generic.List`1[System.String]
-# ServiceLabel: System.Collections.Generic.List`1[System.String]
-# PRLabel: System.Collections.Generic.List`1[System.String]
-/sdk/identity/**					System.Collections.Generic.List`1[System.String]
-
 # PRLabel: %Extensions
 /sdk/extensions/                                                   @jsquire
 
