@@ -65,7 +65,11 @@
 
 # ServiceLabel: %System.ClientModel
 
-# PRLabel: %Azure.Identity
+
+# AzureSdkOwners: System.Collections.Generic.List`1[System.String]
+# ServiceLabel: System.Collections.Generic.List`1[System.String]
+# PRLabel: System.Collections.Generic.List`1[System.String]
+/sdk/identity/**					System.Collections.Generic.List`1[System.String]
 
 # ServiceLabel: %Azure.Identity
 # AzureSdkOwners:                                                  @christothes @JonathanCrd
