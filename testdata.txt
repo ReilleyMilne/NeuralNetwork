@@ -62,6 +62,10 @@
 
 # ServiceLabel: %Azure.Core
 # AzureSdkOwners:                                                  @m-redding
+# AzureSdkOwners: ["azure-sdk-team"]
+# ServiceLabel: ["Azure.Identity"]
+# PRLabel: ["Azure.Identity"]
+/sdk/identity/**					reilleym danielj
 
 # AzureSdkOwners: System.Collections.Generic.List`1[System.String]
 # ServiceLabel: System.Collections.Generic.List`1[System.String]
