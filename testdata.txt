@@ -215,6 +215,7 @@
 # ServiceOwners:                                                   @areddish @tburns10
 
 # PRLabel: %Cognitive - Computer Vision
+RandomService!,,e99695
 /sdk/cognitiveservices/Vision.ComputerVision/                      @ryogok @TFR258 @tburns10 @areddish @toothache
 
 # ServiceLabel: %Cognitive - Computer Vision
