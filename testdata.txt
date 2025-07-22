@@ -73,6 +73,12 @@ testdata.txt					System.Collections.Generic.List`1[System.String]
 # AzureSdkOwners: System.Collections.Generic.List`1[System.String]
 # ServiceLabel: System.Collections.Generic.List`1[System.String]
 # PRLabel: System.Collections.Generic.List`1[System.String]
+testdata.txt					System.Collections.Generic.List`1[System.String]
+
+
+# AzureSdkOwners: System.Collections.Generic.List`1[System.String]
+# ServiceLabel: System.Collections.Generic.List`1[System.String]
+# PRLabel: System.Collections.Generic.List`1[System.String]
 testdata.txt			System.Collections.Generic.List`1[System.String]
 
 # ServiceLabel: %System.ClientModel
