@@ -66,6 +66,11 @@
 # ServiceLabel: %System.ClientModel
 # AzureSdkOwners:                                                  @m-redding
 
+# AzureSdkOwners: @azure-sdk-team
+# ServiceLabel: %Azure.Identity
+# PRLabel: %Azure.Identity
+/sdk/identity/**					@reilleym @danielj
+
 # PRLabel: %Extensions
 /sdk/extensions/                                                   @jsquire
 
